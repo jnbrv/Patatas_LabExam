@@ -14,20 +14,20 @@ header {
   justify-content: space-between;
   align-items: center;
   padding: 5px 60px;
-  background: #000; 
+  background: #FEE54A; 
   box-shadow: 0 2px 5px rgba(0,0,0,0.1);
 }
 
 header h1 {
   font-size: 1.5rem;
-  color: #fff; 
+  color: #000; 
   font-family: 'Outfit', sans-serif;
 }
 
 header nav a {
   margin: 0 15px;
   text-decoration: none;
-  color: #fff; 
+  color: #000; 
   font-weight: 500;
   transition: color 0.3s;
 }
@@ -143,8 +143,8 @@ header nav a:hover {
 footer {
   text-align: center;
   padding: 20px;
-  background: #0d0d0d;
-  color: #fff;
+  background:#FEE54A;
+  color: #000;
 
 }
 
@@ -290,3 +290,4 @@ nav form {
 
 .carousel-btn.prev { left: 10px; }
 .carousel-btn.next { right: 10px; }
+
